@@ -305,10 +305,6 @@ Dokify uses Supabase PostgreSQL for data persistence. To deploy your own instanc
 
 📖 **Full deployment guide**: See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed instructions.
 
-## License
-
-MIT
-
 ## Support
 
 For issues, questions, or feature requests:
